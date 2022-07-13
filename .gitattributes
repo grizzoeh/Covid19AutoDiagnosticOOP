@@ -1,2 +1,1 @@
-* linguist-vendored
-*.st linguist-vendored=false
+*.* linguist-language=Smalltalk
