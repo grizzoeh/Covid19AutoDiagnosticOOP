@@ -1,4 +1,4 @@
-# Covid19AutoDiagnosticOOP
+# Covid19DiagnosticSystemOOP
 
 Implementation of a Covid19 diagnostic system, based on syntoms and close contacts.
 
